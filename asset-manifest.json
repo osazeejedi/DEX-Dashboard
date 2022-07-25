@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dex-dashboard/static/css/main.c4de59db.css",
-    "main.js": "/dex-dashboard/static/js/main.2ab1f4b1.js",
-    "static/media/covalent-logo-loop_dark_v2.gif": "/dex-dashboard/static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
-    "static/media/analytics.png": "/dex-dashboard/static/media/analytics.f705001f9fc87376a5f3.png",
-    "static/media/cloud.png": "/dex-dashboard/static/media/cloud.612c31f30fe95fb92540.png",
-    "index.html": "/dex-dashboard/index.html",
-    "static/media/alert.svg": "/dex-dashboard/static/media/alert.6e5425f970eb5a1bc7107d2f8df36bf2.svg",
-    "main.c4de59db.css.map": "/dex-dashboard/static/css/main.c4de59db.css.map",
-    "main.2ab1f4b1.js.map": "/dex-dashboard/static/js/main.2ab1f4b1.js.map"
+    "main.css": "./static/css/main.4b0e3ba8.css",
+    "main.js": "./static/js/main.04f4ab02.js",
+    "static/media/covalent-logo-loop_dark_v2.gif": "./static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
+    "static/media/analytics.png": "./static/media/analytics.f705001f9fc87376a5f3.png",
+    "static/media/cloud.png": "./static/media/cloud.612c31f30fe95fb92540.png",
+    "index.html": "./index.html",
+    "static/media/alert.svg": "./static/media/alert.6e5425f970eb5a1bc7107d2f8df36bf2.svg",
+    "main.4b0e3ba8.css.map": "./static/css/main.4b0e3ba8.css.map",
+    "main.04f4ab02.js.map": "./static/js/main.04f4ab02.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4de59db.css",
-    "static/js/main.2ab1f4b1.js"
+    "static/css/main.4b0e3ba8.css",
+    "static/js/main.04f4ab02.js"
   ]
 }
