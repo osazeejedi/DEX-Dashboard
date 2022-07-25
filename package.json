@@ -1,8 +1,8 @@
 {
-    "name": "xyk-dashboard-demo",
+    "name": "react-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://covalenthq.github.io/dex-dashboard/",
+    "homepage": ".",
     "dependencies": {
         "@blueprintjs/core": "^3.52.0",
         "@testing-library/jest-dom": "^5.12.0",
