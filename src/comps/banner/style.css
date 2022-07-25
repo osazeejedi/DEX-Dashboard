@@ -15,10 +15,10 @@
 }
 
 .banner-logo{
-  min-width:100px;
-  min-height:100px;
+  min-width:250px;
+  min-height:250px;
   margin-right:20px;
-  background-image: url('../../assets/white-logo.png');
+  background-image: url('../../assets/cloud.png');
   background-position: center;
   background-repeat:no-repeat;
   background-size:cover;

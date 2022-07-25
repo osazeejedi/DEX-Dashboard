@@ -1,7 +1,7 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import { useHistory } from "react-router-dom";
 import './style.css'
-import { Icon, IconSize,} from "@blueprintjs/core";
+import { Icon} from "@blueprintjs/core";
 
 const Back = ({light}) => {
   const history = useHistory()

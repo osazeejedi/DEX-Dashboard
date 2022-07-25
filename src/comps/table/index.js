@@ -1,7 +1,5 @@
 import React, {useEffect, useState, useRef} from 'react'
 import './style.css'
-import { Icon} from "@blueprintjs/core";
-import { CONFIG } from '../../config'
 
 
 const Table = ({data, onClick, color, load}) => {

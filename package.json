@@ -2,7 +2,7 @@
     "name": "xyk-dashboard-demo",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://covalenthq.github.io/dex-dashboard-template/",
+    "homepage": "https://covalenthq.github.io/dex-dashboard/",
     "dependencies": {
         "@blueprintjs/core": "^3.52.0",
         "@testing-library/jest-dom": "^5.12.0",

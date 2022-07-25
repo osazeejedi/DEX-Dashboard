@@ -1,6 +1,5 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import './style.css'
-import { Icon, IconSize,} from "@blueprintjs/core";
 
 const Input = ({onChange, ph, text, type}) => {
   return (

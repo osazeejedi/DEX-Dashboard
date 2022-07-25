@@ -1,7 +1,7 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import { useHistory } from "react-router-dom";
 import './style.css'
-import bannerImg from "../../assets/background.png";
+import bannerImg from "../../assets/analytics.png";
 
 const Banner = ({head, subhead, img, color}) => {
   const history = useHistory()
@@ -25,7 +25,6 @@ const Banner = ({head, subhead, img, color}) => {
 
 Banner.defaultProps = {
   head:"Head",
-  subhead:"SubHead",
   img:bannerImg
 }
 
