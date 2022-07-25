@@ -1,7 +1,7 @@
 # DEX-SENSE DASHBOARD
 This is a project submitted for the hackfs hackathon which utilizes the Covalent API to display DEX metrics across multiple chains supported by covalent. 
 
-![DEX Dashboard Example](./public/dex-dashboard-example.png)
+![DEX Dashboard](./public/dexsense.png)
 
 
 ## Live Demo
