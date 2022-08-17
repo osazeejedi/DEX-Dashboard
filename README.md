@@ -13,6 +13,3 @@ The live demo displays:
 * A DEX market sentiment and socials summary
 * Details of the asset pairs traded on the DEX
 
-## Demo Video
-Please access the presentation video here - https://www.loom.com/share/9aa243f234d34a829d90391bfa0c63fa
-
